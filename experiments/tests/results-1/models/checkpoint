@@ -1,0 +1,2 @@
+model_checkpoint_path: "derterministic_spectrum_unetb8_msiv6.2_cutborders_mwp_local_end_80_8_32"
+all_model_checkpoint_paths: "derterministic_spectrum_unetb8_msiv6.2_cutborders_mwp_local_end_80_8_32"

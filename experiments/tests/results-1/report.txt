@@ -1,0 +1,83 @@
+Train MSI Paths
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_14_53_44/registered_scene/registered_scene_24_04_15_14_53_44.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_18_24/registered_scene/registered_scene_24_04_15_15_18_24.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_22_03/registered_scene/registered_scene_24_04_15_15_22_03.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_24_09/registered_scene/registered_scene_24_04_15_15_24_09.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_31_10/registered_scene/registered_scene_24_04_15_15_31_10.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_34_03/registered_scene/registered_scene_24_04_15_15_34_03.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_36_06/registered_scene/registered_scene_24_04_15_15_36_06.npy
+Validation MSI Paths
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_42_02/registered_scene/registered_scene_24_04_15_15_42_02.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_44_10/registered_scene/registered_scene_24_04_15_15_44_10.npy
+/tf/datasets/msiv6_recordings/24_04_15_4meter/24_04_15_15_45_45/registered_scene/registered_scene_24_04_15_15_45_45.npy
+Create Dataset
+Create Dataset
+####################TRAINING-1####################
+Epoch 1/2
+143/143 - 66s - accuracy: 0.4832 - loss: 1.3634 - macro_precision: 0.4016 - macro_recall: 0.2099 - macro_f1score: 0.1493 - precision-0: 0.0000e+00 - recall-0: 0.0000e+00 - f1score-0: 0.0000e+00 - truepositive-0: 0.0000e+00 - falsepositive-0: 0.0000e+00 - falsenegative-0: 457684.0000 - precision-1: 0.4799 - recall-1: 0.9975 - f1score-1: 0.6480 - truepositive-1: 1729475.0000 - falsepositive-1: 1874482.0000 - falsenegative-1: 4412.0000 - precision-2: 0.8239 - recall-2: 0.0074 - f1score-2: 0.0147 - truepositive-2: 4460.0000 - falsepositive-2: 953.0000 - falsenegative-2: 597854.0000 - precision-3: 0.7040 - recall-3: 0.0444 - f1score-3: 0.0836 - truepositive-3: 32556.0000 - falsepositive-3: 13688.0000 - falsenegative-3: 700254.0000 - precision-4: 0.0000e+00 - recall-4: 0.0000e+00 - f1score-4: 0.0000e+00 - truepositive-4: 0.0000e+00 - falsepositive-4: 0.0000e+00 - falsenegative-4: 128919.0000 - val_accuracy: 0.6087 - val_loss: 1.2430 - val_macro_precision: 0.2465 - val_macro_recall: 0.3762 - val_macro_f1score: 0.2965 - val_precision-0: 0.0000e+00 - val_recall-0: 0.0000e+00 - val_f1score-0: 0.0000e+00 - val_truepositive-0: 0.0000e+00 - val_falsepositive-0: 0.0000e+00 - val_falsenegative-0: 180305.0000 - val_precision-1: 0.5689 - val_recall-1: 0.9980 - val_f1score-1: 0.7247 - val_truepositive-1: 333584.0000 - val_falsepositive-1: 252734.0000 - val_falsenegative-1: 652.0000 - val_precision-2: 0.0000e+00 - val_recall-2: 0.0000e+00 - val_f1score-2: 0.0000e+00 - val_truepositive-2: 0.0000e+00 - val_falsepositive-2: 0.0000e+00 - val_falsenegative-2: 134173.0000 - val_precision-3: 0.6637 - val_recall-3: 0.8832 - val_f1score-3: 0.7579 - val_truepositive-3: 281435.0000 - val_falsepositive-3: 142580.0000 - val_falsenegative-3: 37236.0000 - val_precision-4: 0.0000e+00 - val_recall-4: 0.0000e+00 - val_f1score-4: 0.0000e+00 - val_truepositive-4: 0.0000e+00 - val_falsepositive-4: 0.0000e+00 - val_falsenegative-4: 42948.0000 - 66s/epoch - 458ms/step
+Epoch 2/2
+143/143 - 70s - accuracy: 0.6326 - loss: 0.9653 - macro_precision: 0.4393 - macro_recall: 0.3809 - macro_f1score: 0.3515 - precision-0: 0.4401 - recall-0: 0.0103 - f1score-0: 0.0201 - truepositive-0: 4699.0000 - falsepositive-0: 5979.0000 - falsenegative-0: 452667.0000 - precision-1: 0.6404 - recall-1: 0.9526 - f1score-1: 0.7659 - truepositive-1: 1637296.0000 - falsepositive-1: 919334.0000 - falsenegative-1: 81410.0000 - precision-2: 0.4492 - recall-2: 0.1859 - f1score-2: 0.2630 - truepositive-2: 113813.0000 - falsepositive-2: 139581.0000 - falsenegative-2: 498319.0000 - precision-3: 0.6670 - recall-3: 0.7557 - f1score-3: 0.7086 - truepositive-3: 551467.0000 - falsepositive-3: 275319.0000 - falsenegative-3: 178229.0000 - precision-4: 0.0000e+00 - recall-4: 0.0000e+00 - f1score-4: 0.0000e+00 - truepositive-4: 0.0000e+00 - falsepositive-4: 0.0000e+00 - falsenegative-4: 129588.0000 - val_accuracy: 0.7125 - val_loss: 0.8599 - val_macro_precision: 0.5495 - val_macro_recall: 0.5273 - val_macro_f1score: 0.4843 - val_precision-0: 0.7110 - val_recall-0: 0.0891 - val_f1score-0: 0.1584 - val_truepositive-0: 16067.0000 - val_falsepositive-0: 6531.0000 - val_falsenegative-0: 164238.0000 - val_precision-1: 0.7990 - val_recall-1: 0.9854 - val_f1score-1: 0.8825 - val_truepositive-1: 329381.0000 - val_falsepositive-1: 82852.0000 - val_falsenegative-1: 4888.0000 - val_precision-2: 0.5483 - val_recall-2: 0.6685 - val_f1score-2: 0.6025 - val_truepositive-2: 86597.0000 - val_falsepositive-2: 71340.0000 - val_falsenegative-2: 42938.0000 - val_precision-3: 0.6890 - val_recall-3: 0.8936 - val_f1score-3: 0.7781 - val_truepositive-3: 283200.0000 - val_falsepositive-3: 127845.0000 - val_falsenegative-3: 33704.0000 - val_precision-4: 0.0000e+00 - val_recall-4: 0.0000e+00 - val_f1score-4: 0.0000e+00 - val_truepositive-4: 0.0000e+00 - val_falsepositive-4: 0.0000e+00 - val_falsenegative-4: 42800.0000 - 70s/epoch - 487ms/step
+Max val acc: 0.7125281095504761
+Max val f1: 0.48427706956863403
+Max val precision: 0.5494570136070251
+Max val recall: 0.5273310542106628
+highest validation accuracy 71.25
+        with train accuracy 63.26
+        on epoch 2
+highest validation macro recall 52.73
+    with train macro recall 38.09
+    on epoch 2
+highest validation macro precision 54.95
+    with train macro precision 43.93
+    on epoch 2
+highest validation macro f1score 48.43
+    with train macro f1score 35.15
+    on epoch 2
+['plastic', 'wood_paper', 'metal', 'textile', 'mineral_rock']
+########## VALIDATION CLASSIFICATION REPORT ##########
+              precision    recall  f1-score   support
+
+     plastic       0.73      0.09      0.16    180305
+  wood_paper       0.79      0.99      0.88    335368
+       metal       0.56      0.68      0.62    133519
+     textile       0.68      0.88      0.77    312209
+mineral_rock       0.00      0.00      0.00     42948
+
+    accuracy                           0.71   1004349
+   macro avg       0.55      0.53      0.48   1004349
+weighted avg       0.68      0.71      0.64   1004349
+
+Confusion Matrix
+[[ 16067  13660  24674 125904      0]
+ [   207 330480   4030    651      0]
+ [  5101  36026  91149   1243      0]
+ [   488  20400  16773 274548      0]
+ [   167  16871  25863     47      0]]
+['plastic', 'wood_paper', 'metal', 'textile', 'mineral_rock']
+Confusion Matrix
+[[ 135904  123854   40142  153114       0]
+ [  12175 1636742   54632   26742       0]
+ [  16950  188062  400316    1729       0]
+ [    613  107891   70130  550513       0]
+ [    251   38160   90665       0       0]]
+['plastic', 'wood_paper', 'metal', 'textile', 'mineral_rock']
+########## TRAINING CLASSIFICATION REPORT ##########
+              precision    recall  f1-score   support
+
+     plastic       0.82      0.30      0.44    453014
+  wood_paper       0.78      0.95      0.86   1730291
+       metal       0.61      0.66      0.63    607057
+     textile       0.75      0.76      0.75    729147
+mineral_rock       0.00      0.00      0.00    129076
+
+    accuracy                           0.75   3648585
+   macro avg       0.59      0.53      0.54   3648585
+weighted avg       0.72      0.75      0.72   3648585
+
+Confusion Matrix
+[[ 135904  123854   40142  153114       0]
+ [  12175 1636742   54632   26742       0]
+ [  16950  188062  400316    1729       0]
+ [    613  107891   70130  550513       0]
+ [    251   38160   90665       0       0]]
+['plastic', 'wood_paper', 'metal', 'textile', 'mineral_rock']
