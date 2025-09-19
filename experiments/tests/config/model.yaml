@@ -1,6 +1,0 @@
-name:
-    derterministic_spectrum_unetb8
-loss:
-     no_background_sparse_categorical_crossentropy
-run_eagerly:
-    False

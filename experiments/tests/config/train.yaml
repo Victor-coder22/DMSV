@@ -1,8 +1,0 @@
-epochs:
-    2
-verbosity:
-    2
-min_acc:
-    0.0
-early_stopping:
-    10
